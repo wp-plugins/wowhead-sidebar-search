@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Wowhead Sidebar Search
-Plugin URI: http://alisothegeek.com/plugins/
+Plugin URI: http://alisothegeek.com/wordpress-plugins/
 Description: Adds a Wowhead search panel to your sidebar, with different size options.
 Author: Alison Barrett
 Version: 1.0
